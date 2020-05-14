@@ -1,0 +1,50 @@
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.vbprojAssemblyReference.cache
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.Resources.resources
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\bin\Debug\SuperDSLR_A165916.exe.config
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\bin\Debug\SuperDSLR_A165916.exe
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\bin\Debug\SuperDSLR_A165916.pdb
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\bin\Debug\SuperDSLR_A165916.xml
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_customerDetails_A165916.resources
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_shop_A165916.resources
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_staffDetails_A165916.resources
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_viewOrder_A165916.resources
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_mainMenu_A165916.resources
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.exe
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.xml
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.pdb
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_itemList_A165916.resources
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_shopEdit_A165916.resources
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_customerEdit_A165916.resources
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_staffEdit_A165916.resources
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_customerInsert_A165916.resources
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_shopInsert_A165916.resources
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_staffInsert_A165916.resources
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_mainMenu1_A165916.resources
+C:\Users\HP\source\repos\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_mainMenu2_A165916.resources
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\bin\Debug\SuperDSLR_A165916.exe.config
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\bin\Debug\SuperDSLR_A165916.exe
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\bin\Debug\SuperDSLR_A165916.pdb
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\bin\Debug\SuperDSLR_A165916.xml
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.vbprojAssemblyReference.cache
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_customerDetails_A165916.resources
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_customerEdit_A165916.resources
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_customerInsert_A165916.resources
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_mainMenu1_A165916.resources
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_mainMenu2_A165916.resources
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_shopEdit_A165916.resources
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_shopInsert_A165916.resources
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_shop_A165916.resources
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_staffDetails_A165916.resources
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_staffEdit_A165916.resources
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_staffInsert_A165916.resources
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_viewOrder_A165916.resources
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_mainMenu_A165916.resources
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.Resources.resources
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.frm_itemList_A165916.resources
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.exe
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.xml
+C:\Users\HP\Desktop\My Projects\SuperDSLR_A165916\SuperDSLR_A165916\obj\Debug\SuperDSLR_A165916.pdb

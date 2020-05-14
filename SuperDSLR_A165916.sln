@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SuperDSLR_A165916", "SuperDSLR_A165916\SuperDSLR_A165916.vbproj", "{4059A36B-61A2-4570-93E0-CEFD093F32FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4059A36B-61A2-4570-93E0-CEFD093F32FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4059A36B-61A2-4570-93E0-CEFD093F32FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4059A36B-61A2-4570-93E0-CEFD093F32FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4059A36B-61A2-4570-93E0-CEFD093F32FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6FD1AF2-751C-4359-9B8B-029A71AE7D63}
+	EndGlobalSection
+EndGlobal
